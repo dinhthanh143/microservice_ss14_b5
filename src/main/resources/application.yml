@@ -1,0 +1,24 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: travel-combo-saga-service
+
+saga:
+  timeout:
+    flight-ms: 3000
+    hotel-ms: 3000
+    payment-ms: 3000
+  retry:
+    max-attempts: 2
+    backoff-ms: 500
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: always
