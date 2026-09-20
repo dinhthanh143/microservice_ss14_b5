@@ -1,11 +1,4 @@
-# HỒ SƠ THIẾT KẾ KIẾN TRÚC: HỆ THỐNG ĐẶT VÉ COMBO "CHUYẾN ĐI TRỌN GÓI" (SAGA PATTERN)
 
-> **Cấp độ:** Sáng tạo (Tổng hợp kiến thức Microservices & Distributed Transactions)  
-> **Dự án:** Travel Combo Booking System using Saga Orchestration  
-> **Thư mục dự án:** `C:\Rikkei\microservice\ss14\b5`  
-> **GitHub Repository:** [https://github.com/dinhthanh143/microservice_ss14_b5](https://github.com/dinhthanh143/microservice_ss14_b5)
-
----
 
 ## 1. Phân Tích Vấn Đề (Problem Analysis)
 
